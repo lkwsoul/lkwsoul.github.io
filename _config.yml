@@ -4,7 +4,7 @@ show_downloads: true
 git_branch: master
 logo_url: https://avatars2.githubusercontent.com/u/3321253?s=400&u=d72255673f4b8c01f92eb731621e184d9f8ff017&v=4
 google_analytics:
-theme: jekyll-theme-minimal
+theme: 
 wiki_folder: wiki
 use_github_wiki: false
 use_prose_io: true
@@ -18,22 +18,3 @@ gems:
   - jemoji
   - jekyll-redirect-from
   - jekyll-feed
-
-markdown:    kramdown
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
-  
-# Default extensions
-post_ext: md
-page_ext: md
-
-# Found in _templates/
-post_layout: post
-page_layout: page
-
-# Format titles with titlecase
-titlecase: true
