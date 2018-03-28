@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-27T20:34:39+09:00</updated><id>http://localhost:4000/</id><title type="html">LKWSoul Wiki</title><subtitle>git-wiki is a jekyll theme originally based on jekyll-theme-minimal</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-28T17:13:07+09:00</updated><id>http://localhost:4000/</id><title type="html">LKWSoul Wiki</title><subtitle>lkwsoul.github.io</subtitle><entry><title type="html">시작하기</title><link href="http://localhost:4000/2018/03/27/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.html" rel="alternate" type="text/html" title="시작하기" /><published>2018-03-27T00:00:00+09:00</published><updated>2018-03-27T00:00:00+09:00</updated><id>http://localhost:4000/2018/03/27/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0</id><content type="html" xml:base="http://localhost:4000/2018/03/27/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.html">&lt;h2 id=&quot;lkwsoulgithubio를-시작하며&quot;&gt;LkwSoul.github.io를 시작하며.&lt;/h2&gt;
+
+&lt;h3 id=&quot;늦었다고-생각할때-그때가-출발의-좋은-기회이다&quot;&gt;늦었다고 생각할때, 그때가 출발의 좋은 기회이다.&lt;/h3&gt;
+
+&lt;p&gt;과거를 반성하며.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;자기 개발에 노력하고 있나?&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;우선적으로 테스트를 위한 글을 올려 본다. 앞으로도 지금 이 순을 늘 기억하도록 하자.&lt;/p&gt;</content><author><name></name></author><summary type="html">LkwSoul.github.io를 시작하며.</summary></entry></feed>
