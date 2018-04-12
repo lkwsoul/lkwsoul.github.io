@@ -13,6 +13,12 @@ custom_head: false
 custom_sidebar: false
 custom_footer: false
 encoding: "utf-8"
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
 readme_index:
   enabled:          true
   remove_originals: false
