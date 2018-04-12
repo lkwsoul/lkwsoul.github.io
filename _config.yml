@@ -19,3 +19,4 @@ gems:
   - jemoji
   - jekyll-redirect-from
   - jekyll-feed
+  - jekyll-readme-index
