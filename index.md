@@ -5,6 +5,14 @@ layout: default
 
 # {{ page.title }}
 
+<ul class="myposts">
+{% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title}}</a>
+    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+    </li>
+{% endfor %}
+</ul>
+
 Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). Plain text format allows you to focus on your **content**.
 
 <!--
